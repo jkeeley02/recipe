@@ -4,11 +4,13 @@ Ingredients:
 - 1 onion
 - 2 tsp salt
 - jalapeno
+- 2 tbsp cilantro
 
 Instructions:
 - cut and mash avocados
 - chop onion
 - squeeze lime
 - add salt
-- mix well
+- add cilantro
 - chop jalapeno
+- mix well
